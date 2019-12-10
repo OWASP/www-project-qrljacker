@@ -18,7 +18,7 @@ auto-migrated: 1
 <table>
 <tbody>
 <tr class="odd">
-<p>{{Template:Project About</p></td>
+<p>Template:Project About</p></td>
 <td><p>project_name = <a href="https://github.com/OWASP/QRLJacking/tree/master/QRLJacker">QRLJacker Exploitation Framework</a></p></td>
 <h2 id="qrljacker_exploitation_framework">QRLJacker Exploitation Framework</h2>
 <p>A highly customizable framework to demonstrate "<a href="QRLJacking" title="wikilink">QRLJacking Attack Vector</a>" mainly to show how it easy to hijack services that rely on QR Code Authentication!</p>
