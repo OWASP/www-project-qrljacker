@@ -3,13 +3,8 @@
 layout: col-sidebar
 title: OWASP Qrljacker
 tags: example-tag
-level: 0
+level: 2
 type: tool
-
-auto-migrated: 1
-auto-migrated: 1
-
-auto-migrated: 1
 
 ---
 
